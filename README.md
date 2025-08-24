@@ -1,1 +1,1 @@
-# Juego-Amigo-secreto
+# Juego-Numero-secreto
